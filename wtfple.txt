@@ -331,35 +331,103 @@
     We're simply asking You not to make us regret it.
 
 
-                  CLAUSE 12: TERMINATION AND IRREVOCABILITY
+                      CLAUSE 12: PUBLIC DOMAIN DEDICATION
 
-    The permissions granted under this license are intended to be
-    perpetual and irrevocable. The Copyright Holder may not arbitrarily
-    revoke, withdraw, or otherwise invalidate permissions already
-    granted to You, except as expressly provided in this section or
-    required by applicable law.
+    12.1. Irrevocable Public Domain Dedication and Fallback License
 
-    To the extent permitted by applicable law, Your permissions under
-    this license shall automatically terminate upon Your material
-    violation of its terms.
+    The Copyright Holder hereby irrevocably dedicates the Work
+    to the public domain, relinquishing all copyright and
+    related rights in the Work to the fullest extent permitted
+    by applicable law.
 
-    If You become aware of a material violation and fully cure that
-    violation within thirty (30) days of becoming aware of it, Your
-    permissions shall automatically be reinstated upon completion
-    of the cure.
+    This dedication is the primary and intended legal effect
+    of this section. Where the dedication is legally effective,
+    the Work shall be treated as public domain material and
+    shall not be subject to exclusive copyright ownership
+    or control by the Copyright Holder.
 
-    If the violation is not cured within that period, the termination
-    shall remain in effect unless the Copyright Holder expressly
-    reinstates Your permissions in writing.
+    Where, and only to the extent that, the dedication is
+    ineffective, unenforceable, or legally unavailable under
+    applicable law, the Copyright Holder hereby grants
+    everyone a perpetual, worldwide, irrevocable, royalty-free,
+    non-exclusive, transferable, sublicensable, and unrestricted
+    license to exercise all copyright and related rights
+    in the Work for any purpose, without conditions.
 
-    Termination of Your permissions shall not, by itself, revoke any
-    rights or permissions validly granted by You to recipients before
-    the termination of Your own permissions.
+    The fallback license shall provide the maximum freedom
+    legally available and shall operate independently of
+    any ineffective portion of the dedication.
 
-    Nothing in this section shall be interpreted as creating any
-    obligation to provide attribution, payment, updates, gratitude,
-    or a handwritten letter explaining what the hell You did with
-    the Work.
+    Neither the dedication nor the fallback license requires
+    attribution, acknowledgment, payment, notification,
+    registration, approval, or additional authorization.
+
+    12.2. Unrestricted Freedom of Use
+
+    Anyone may, without permission, acknowledgment, or
+    compensation:
+
+        (a) use, reproduce, modify, adapt, transform, rewrite,
+            remove, replace, or discard the Work, in whole
+            or in part;
+
+        (b) rename, rebrand, repurpose, or incorporate the Work
+            into other works, products, services, or proprietary
+            software;
+
+        (c) publish, distribute, sell, commercialize, sublicense,
+            relicense, or otherwise exploit the Work under
+            any terms or without a license; and
+
+        (d) exercise any other rights in relation to the Work
+            to the fullest extent permitted by applicable law.
+
+    No attribution, acknowledgment, notification, registration,
+    approval, or additional authorization is required.
+
+    12.3. No Retained Ownership or Restrictions
+
+    The Copyright Holder retains no exclusive copyright
+    ownership or control over the original Work following
+    this dedication, to the fullest extent permitted by law.
+
+    No person is required to preserve the Work, retain its
+    original name or form, identify its creator, or distribute
+    it under the original licensing terms.
+
+    Anyone may treat the Work as their own material for
+    purposes of use, modification, distribution, and
+    commercialization, without thereby acquiring historical
+    authorship of material they did not create.
+
+    12.4. No Warranty or Responsibility
+
+    The Work is dedicated and made available without any
+    warranty or guarantee, whether express or implied, to
+    the maximum extent permitted by applicable law.
+
+    The Copyright Holder and Contributors assume no
+    responsibility for the use, misuse, modification,
+    distribution, or consequences arising from the Work,
+    subject to liabilities that cannot legally be excluded.
+
+    12.5. No Revocation or Withdrawal
+
+    This dedication and the alternative permissions granted
+    under Clause 12.1 shall be permanent and irrevocable.
+
+    The Copyright Holder may not withdraw, revoke, restrict,
+    or otherwise invalidate this dedication or any permissions
+    already granted under this section.
+
+    No subsequent change of ownership, licensing preference,
+    personal disagreement, or unilateral decision shall
+    invalidate the dedication or permissions previously
+    granted.
+
+    Historical authorship may be acknowledged as a matter
+    of fact but shall not establish continuing copyright
+    ownership or exclusive control over the original Work.
 
 
                  CLAUSE 13: APPLICABLE LAW AND SEVERABILITY
@@ -422,7 +490,7 @@
     No lawyers were intentionally harmed in the writing of this license.
     Some may, however, experience mild discomfort.
 
-                               HOW TO APPLY THIS LICENSE
+                           HOW TO APPLY THIS LICENSE
 
     This license applies automatically to any Work distributed under its terms.
     No additional copyright notice, author identification, copyright year,
