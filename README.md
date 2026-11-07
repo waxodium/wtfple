@@ -31,6 +31,7 @@ If you're using the license NOW, please consider waiting or update your WTFPLE o
 
 ## 4. How to contribute?
 By making suggestions, or helping us for legal reviews and writings.
+Check more in [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## License
-This license is licensed under [WTPLEv1](./LICENSE). Check file for full detail.
+This license is licensed under [WTFPLEv1](./LICENSE). Check file for full detail.

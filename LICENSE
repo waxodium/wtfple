@@ -1,501 +1,501 @@
-                                   THE WTFPLE
+                               THE WTFPLE
 
-             The Whatever The Fuck You Want Public License Extended
+         The Whatever The Fuck You Want Public License Extended
 
-                        Version 1.0 The Fuck-It Release
+                    Version 1.0 The Fuck-It Release
 
-                                    PREAMBLE
+                                PREAMBLE
 
-      This license is founded upon a simple principle: You are free to do
-    whatever the fuck You want with the Work. Use it, modify it, sell
-    it, redistribute it, commercialize it, or turn it into something
-    the original author could never have imagined.
+  This license is founded upon a simple principle: You are free to do
+whatever the fuck You want with the Work. Use it, modify it, sell
+it, redistribute it, commercialize it, or turn it into something
+the original author could never have imagined.
 
-      The Copyright Holder asks for nothing in return. No attribution,
-    no royalties, no subscriptions, no explanations, and no gratitude.
+  The Copyright Holder asks for nothing in return. No attribution,
+no royalties, no subscriptions, no explanations, and no gratitude.
 
-      All the Copyright Holder asks is that You understand the Work is
-    provided without guarantees, that You accept responsibility for
-    Your own use of it, and that You please do not sue the people who
-    freely gave it to You.
+  All the Copyright Holder asks is that You understand the Work is
+provided without guarantees, that You accept responsibility for
+Your own use of it, and that You please do not sue the people who
+freely gave it to You.
 
-    Seriously. We just wanted to share some fucking software.
+Seriously. We just wanted to share some fucking software.
 
 
-    Subject to the terms and limitations expressly stated in this license, the
-    following permissions are granted to everyone.
+Subject to the terms and limitations expressly stated in this license, the
+following permissions are granted to everyone.
 
-                             CLAUSE 1: DEFINITIONS
+                         CLAUSE 1: DEFINITIONS
 
-    For purposes of this license:
+For purposes of this license:
 
-    1.1. "Work" means the software, source code, documentation, creative
-         material, designs, assets, or other copyrightable material distributed
-         with or expressly identified as being subject to this license.
+1.1. "Work" means the software, source code, documentation, creative
+     material, designs, assets, or other copyrightable material distributed
+     with or expressly identified as being subject to this license.
 
-    1.2. "Copyright Holder" means the individual or legal entity holding the
-         relevant copyright or otherwise authorized to grant the permissions
-         contained herein.
+1.2. "Copyright Holder" means the individual or legal entity holding the
+     relevant copyright or otherwise authorized to grant the permissions
+     contained herein.
 
-    1.3. "Contributor" means any individual or legal entity that voluntarily
-         contributes material to the Work and has the authority to grant the
-         permissions described in this license for that contribution.
+1.3. "Contributor" means any individual or legal entity that voluntarily
+     contributes material to the Work and has the authority to grant the
+     permissions described in this license for that contribution.
 
-    1.4. "You" means any individual, organization, company, government entity,
-         or other person or legal entity exercising permissions under this
-         license, including through the operation or use of artificial
-         intelligence systems.
+1.4. "You" means any individual, organization, company, government entity,
+     or other person or legal entity exercising permissions under this
+     license, including through the operation or use of artificial
+     intelligence systems.
 
-    1.5. "Derivative Work" means a modification, adaptation, transformation, or
-         other work based upon the original Work, to the extent recognized by
-         applicable copyright law.
+1.5. "Derivative Work" means a modification, adaptation, transformation, or
+     other work based upon the original Work, to the extent recognized by
+     applicable copyright law.
 
-    1.6. "Contribution" means any original work of authorship, modification,
-         addition, or other material intentionally submitted to the Work by a
-         Contributor for inclusion or incorporation into the Work.
+1.6. "Contribution" means any original work of authorship, modification,
+     addition, or other material intentionally submitted to the Work by a
+     Contributor for inclusion or incorporation into the Work.
 
 
-                      CLAUSE 2: GRANT OF COPYRIGHT RIGHTS
+                  CLAUSE 2: GRANT OF COPYRIGHT RIGHTS
 
-    The Copyright Holder and each Contributor hereby grant You a perpetual,
-    worldwide, royalty-free, non-exclusive, transferable, and irrevocable
-    license under copyright to use, reproduce, modify, adapt, distribute,
-    publish, sublicense, and otherwise exploit the Work and their respective
-    Contributions for any purpose, whether commercial or non-commercial,
-    subject to the terms of this license.
+The Copyright Holder and each Contributor hereby grant You a perpetual,
+worldwide, royalty-free, non-exclusive, transferable, and irrevocable
+license under copyright to use, reproduce, modify, adapt, distribute,
+publish, sublicense, and otherwise exploit the Work and their respective
+Contributions for any purpose, whether commercial or non-commercial,
+subject to the terms of this license.
 
-    You may exercise these rights without obtaining further permission from
-    the Copyright Holder. No prior notice, notification, approval,
-    acknowledgment, or other communication is required.
+You may exercise these rights without obtaining further permission from
+the Copyright Holder. No prior notice, notification, approval,
+acknowledgment, or other communication is required.
 
 
-                            CLAUSE 3: PATENT RIGHTS
+                        CLAUSE 3: PATENT RIGHTS
 
-    The Copyright Holder hereby grants You a perpetual, worldwide,
-    non-exclusive, no-charge, royalty-free, irrevocable (except as expressly
-    provided in this section) patent license to make, have made, use, offer
-    to sell, sell, import, and otherwise transfer the Work, where such
-    license applies only to those patent claims owned or controlled by the
-    Copyright Holder that are necessarily infringed by the Work as
-    originally distributed by the Copyright Holder.
+The Copyright Holder hereby grants You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable (except as expressly
+provided in this section) patent license to make, have made, use, offer
+to sell, sell, import, and otherwise transfer the Work, where such
+license applies only to those patent claims owned or controlled by the
+Copyright Holder that are necessarily infringed by the Work as
+originally distributed by the Copyright Holder.
 
-    Each Contributor hereby grants You a perpetual, worldwide, non-exclusive,
-    no-charge, royalty-free, irrevocable (except as expressly provided in
-    this section) patent license to make, have made, use, offer to sell,
-    sell, import, and otherwise transfer their respective Contributions,
-    where such license applies only to those patent claims owned or
-    controlled by that Contributor that are necessarily infringed by:
+Each Contributor hereby grants You a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free, irrevocable (except as expressly provided in
+this section) patent license to make, have made, use, offer to sell,
+sell, import, and otherwise transfer their respective Contributions,
+where such license applies only to those patent claims owned or
+controlled by that Contributor that are necessarily infringed by:
 
-        (a) that Contributor's Contribution alone; or
+    (a) that Contributor's Contribution alone; or
 
-        (b) the combination of that Contributor's Contribution with the
-            Work to which such Contribution was submitted.
+    (b) the combination of that Contributor's Contribution with the
+        Work to which such Contribution was submitted.
 
-    These patent licenses do not extend to any patent claim that would be
-    infringed solely as a consequence of further modification of the Work
-    or a Contribution, or by the combination of the Work or a Contribution
-    with any other software, hardware, or material not forming part of the
-    relevant Work.
+These patent licenses do not extend to any patent claim that would be
+infringed solely as a consequence of further modification of the Work
+or a Contribution, or by the combination of the Work or a Contribution
+with any other software, hardware, or material not forming part of the
+relevant Work.
 
-    If You institute patent litigation against any entity, including a
-    cross-claim or counterclaim in a lawsuit, alleging that the Work or
-    any Contribution incorporated within the Work constitutes direct or
-    contributory patent infringement, then any patent licenses granted to
-    You under this section shall terminate as of the date such litigation
-    is filed.
+If You institute patent litigation against any entity, including a
+cross-claim or counterclaim in a lawsuit, alleging that the Work or
+any Contribution incorporated within the Work constitutes direct or
+contributory patent infringement, then any patent licenses granted to
+You under this section shall terminate as of the date such litigation
+is filed.
 
 
-                             CLAUSE 4: ATTRIBUTION
+                         CLAUSE 4: ATTRIBUTION
 
-    Attribution to the Copyright Holder is appreciated but not required
-    under this license. You may, at Your discretion, acknowledge the
-    original author in any manner You consider appropriate, or omit
-    attribution entirely. The absence of attribution shall not constitute
-    a violation of this license or give rise to any obligation to the
-    Copyright Holder.
+Attribution to the Copyright Holder is appreciated but not required
+under this license. You may, at Your discretion, acknowledge the
+original author in any manner You consider appropriate, or omit
+attribution entirely. The absence of attribution shall not constitute
+a violation of this license or give rise to any obligation to the
+Copyright Holder.
 
-    Nothing in this section shall be construed to grant You the right to
-    represent, expressly or by implication, that the Copyright Holder
-    endorses, sponsors, or is otherwise affiliated with You, Your project,
-    product, or organization.
+Nothing in this section shall be construed to grant You the right to
+represent, expressly or by implication, that the Copyright Holder
+endorses, sponsors, or is otherwise affiliated with You, Your project,
+product, or organization.
 
-    This section does not waive or override attribution, copyright notice,
-    or other obligations applicable to third-party materials under their
-    respective licenses.
+This section does not waive or override attribution, copyright notice,
+or other obligations applicable to third-party materials under their
+respective licenses.
 
 
-                 CLAUSE 5: MODIFICATIONS AND DERIVATIVE WORKS
+             CLAUSE 5: MODIFICATIONS AND DERIVATIVE WORKS
 
-    You may modify, adapt, transform, or otherwise alter the Work, in whole
-    or in part, for any purpose. You may create Derivative Works and make
-    any changes You consider appropriate, including substantial revisions
-    or complete replacements of the original material.
+You may modify, adapt, transform, or otherwise alter the Work, in whole
+or in part, for any purpose. You may create Derivative Works and make
+any changes You consider appropriate, including substantial revisions
+or complete replacements of the original material.
 
-    You are under no obligation to publish, disclose, distribute, or
-    otherwise make available any modifications or Derivative Works.
-    Any responsibility arising from Your modifications or use of the
-    modified Work rests solely with You. The Copyright Holder assumes
-    no responsibility for changes made by You or for any consequences
-    arising from Your exercise of the rights granted under this license.
+You are under no obligation to publish, disclose, distribute, or
+otherwise make available any modifications or Derivative Works.
+Any responsibility arising from Your modifications or use of the
+modified Work rests solely with You. The Copyright Holder assumes
+no responsibility for changes made by You or for any consequences
+arising from Your exercise of the rights granted under this license.
 
 
-                           CLAUSE 6: COMMERCIAL USE
+                       CLAUSE 6: COMMERCIAL USE
 
-    Commercial use of the Work is expressly permitted under this license.
-    You may sell copies of the Work, charge fees or subscription charges
-    for its use, incorporate it into commercial or enterprise products,
-    include it in proprietary software, monetize Derivative Works, and
-    otherwise use the Work for commercial purposes.
+Commercial use of the Work is expressly permitted under this license.
+You may sell copies of the Work, charge fees or subscription charges
+for its use, incorporate it into commercial or enterprise products,
+include it in proprietary software, monetize Derivative Works, and
+otherwise use the Work for commercial purposes.
 
-    The Copyright Holder shall have no entitlement to royalties,
-    commissions, revenue sharing, consulting fees, equity, stock options,
-    cryptocurrency, or any other compensation arising from Your use,
-    distribution, sale, or commercialization of the Work or any Derivative
-    Works.
+The Copyright Holder shall have no entitlement to royalties,
+commissions, revenue sharing, consulting fees, equity, stock options,
+cryptocurrency, or any other compensation arising from Your use,
+distribution, sale, or commercialization of the Work or any Derivative
+Works.
 
-    Any voluntary payment, contribution, or other compensation You choose
-    to provide to the Copyright Holder shall be entirely at Your discretion
-    and shall not constitute an obligation under this license.
+Any voluntary payment, contribution, or other compensation You choose
+to provide to the Copyright Holder shall be entirely at Your discretion
+and shall not constitute an obligation under this license.
 
 
-                   CLAUSE 7: REDISTRIBUTION AND SUBLICENSING
+               CLAUSE 7: REDISTRIBUTION AND SUBLICENSING
 
-    You may reproduce and redistribute the Work, in whole or in part, in
-    any form, through any medium, on any platform, and to any recipient,
-    whether publicly or privately. You may distribute the Work in original
-    or modified form, independently or as part of a collection, bundle,
-    or other product, and may do so for commercial or non-commercial
-    purposes.
+You may reproduce and redistribute the Work, in whole or in part, in
+any form, through any medium, on any platform, and to any recipient,
+whether publicly or privately. You may distribute the Work in original
+or modified form, independently or as part of a collection, bundle,
+or other product, and may do so for commercial or non-commercial
+purposes.
 
-    Each recipient of the Work automatically receives the permissions
-    granted under this license from the Copyright Holder and applicable
-    Contributors. No separate agreement, registration, or acceptance
-    procedure is required to receive those permissions.
+Each recipient of the Work automatically receives the permissions
+granted under this license from the Copyright Holder and applicable
+Contributors. No separate agreement, registration, or acceptance
+procedure is required to receive those permissions.
 
-    You may distribute Your modifications and Derivative Works under
-    terms of Your choice, provided that You have the necessary rights
-    to do so. However, You may not impose additional restrictions on
-    the rights granted by this license to recipients of the original
-    Work or any portions of the Work that remain subject to this license.
+You may distribute Your modifications and Derivative Works under
+terms of Your choice, provided that You have the necessary rights
+to do so. However, You may not impose additional restrictions on
+the rights granted by this license to recipients of the original
+Work or any portions of the Work that remain subject to this license.
 
-    Nothing in this license requires You to publish, disclose, or
-    distribute Your modifications or Derivative Works.
+Nothing in this license requires You to publish, disclose, or
+distribute Your modifications or Derivative Works.
 
-    Redistribution of the Work does not transfer ownership of copyright
-    held by the original Copyright Holder or any other Contributor.
-    You may not claim or represent ownership of copyright in material
-    belonging to them.
+Redistribution of the Work does not transfer ownership of copyright
+held by the original Copyright Holder or any other Contributor.
+You may not claim or represent ownership of copyright in material
+belonging to them.
 
 
-                  CLAUSE 8: THIRD-PARTY MATERIALS AND RIGHTS
+              CLAUSE 8: THIRD-PARTY MATERIALS AND RIGHTS
 
-    This license grants only those rights that the Copyright Holder or
-    the relevant Contributor actually owns or is legally authorized
-    to grant.
+This license grants only those rights that the Copyright Holder or
+the relevant Contributor actually owns or is legally authorized
+to grant.
 
-    The Work may include, depend upon, interact with, or otherwise make
-    use of third-party materials, libraries, dependencies, trademarks,
-    patents, or other intellectual property, which may be subject to
-    separate licenses, permissions, or restrictions.
+The Work may include, depend upon, interact with, or otherwise make
+use of third-party materials, libraries, dependencies, trademarks,
+patents, or other intellectual property, which may be subject to
+separate licenses, permissions, or restrictions.
 
-    Nothing in this license overrides or supersedes the terms of any
-    applicable third-party license, nor does it grant You any rights
-    to intellectual property that the Copyright Holder or relevant
-    Contributor does not own or control.
+Nothing in this license overrides or supersedes the terms of any
+applicable third-party license, nor does it grant You any rights
+to intellectual property that the Copyright Holder or relevant
+Contributor does not own or control.
 
-    Any obligations arising from a separate license apply only to the
-    third-party material governed by that license and to the extent
-    required by its terms. Such obligations do not automatically extend
-    to the independently licensed portions of the Work.
+Any obligations arising from a separate license apply only to the
+third-party material governed by that license and to the extent
+required by its terms. Such obligations do not automatically extend
+to the independently licensed portions of the Work.
 
-    The Copyright Holder makes no representation or warranty that the
-    Work is free from third-party intellectual property claims,
-    infringement allegations, or other legal complications.
+The Copyright Holder makes no representation or warranty that the
+Work is free from third-party intellectual property claims,
+infringement allegations, or other legal complications.
 
-    In short, nobody can give You rights they don't fucking have.
+In short, nobody can give You rights they don't fucking have.
 
 
-                       CLAUSE 9: NO WARRANTY WHATSOEVER
+                   CLAUSE 9: NO WARRANTY WHATSOEVER
 
-    THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY,
-    RELIABILITY, SECURITY, STABILITY, OR GENERAL COMPETENCE.
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY,
+RELIABILITY, SECURITY, STABILITY, OR GENERAL COMPETENCE.
 
-    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT
-    HOLDER AND CONTRIBUTORS DISCLAIM ALL WARRANTIES AND MAKE NO
-    REPRESENTATIONS OR GUARANTEES REGARDING THE WORK, INCLUDING, WITHOUT
-    LIMITATION, THAT THE SOFTWARE WILL FUNCTION AS INTENDED, COMPILE
-    SUCCESSFULLY, EXECUTE WITHOUT ERRORS, REMAIN STABLE, OR OPERATE
-    WITHOUT CONSUMING EXCESSIVE SYSTEM RESOURCES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT
+HOLDER AND CONTRIBUTORS DISCLAIM ALL WARRANTIES AND MAKE NO
+REPRESENTATIONS OR GUARANTEES REGARDING THE WORK, INCLUDING, WITHOUT
+LIMITATION, THAT THE SOFTWARE WILL FUNCTION AS INTENDED, COMPILE
+SUCCESSFULLY, EXECUTE WITHOUT ERRORS, REMAIN STABLE, OR OPERATE
+WITHOUT CONSUMING EXCESSIVE SYSTEM RESOURCES.
 
-    THE COPYRIGHT HOLDER AND CONTRIBUTORS DO NOT WARRANT THAT THE WORK
-    IS FREE FROM BUGS, DEFECTS, SECURITY VULNERABILITIES, DATA LOSS,
-    UNEXPECTED BEHAVIOR, OR OTHER TECHNICAL PROBLEMS. NOR DO THEY
-    GUARANTEE THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY
-    DOCUMENTATION, EXAMPLES, OR OTHER MATERIALS ACCOMPANYING THE WORK.
+THE COPYRIGHT HOLDER AND CONTRIBUTORS DO NOT WARRANT THAT THE WORK
+IS FREE FROM BUGS, DEFECTS, SECURITY VULNERABILITIES, DATA LOSS,
+UNEXPECTED BEHAVIOR, OR OTHER TECHNICAL PROBLEMS. NOR DO THEY
+GUARANTEE THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY
+DOCUMENTATION, EXAMPLES, OR OTHER MATERIALS ACCOMPANYING THE WORK.
 
-    NO GUARANTEE IS MADE THAT THE SOFTWARE WILL NOT EXPLODE, CONSUME ALL
-    YOUR RAM, SUMMON DEMONS, CAUSE AN INTERNATIONAL INCIDENT, OR OTHERWISE
-    MAKE YOUR DAY SIGNIFICANTLY WORSE.
+NO GUARANTEE IS MADE THAT THE SOFTWARE WILL NOT EXPLODE, CONSUME ALL
+YOUR RAM, SUMMON DEMONS, CAUSE AN INTERNATIONAL INCIDENT, OR OTHERWISE
+MAKE YOUR DAY SIGNIFICANTLY WORSE.
 
-    THE COPYRIGHT HOLDER AND CONTRIBUTORS ASSUME NO RESPONSIBILITY FOR
-    WHETHER THE CODE MAKES SENSE, WHETHER THE DOCUMENTATION IS CORRECT,
-    OR WHETHER ANYONE EVEN REMEMBERS WRITING THE DAMN THING.
+THE COPYRIGHT HOLDER AND CONTRIBUTORS ASSUME NO RESPONSIBILITY FOR
+WHETHER THE CODE MAKES SENSE, WHETHER THE DOCUMENTATION IS CORRECT,
+OR WHETHER ANYONE EVEN REMEMBERS WRITING THE DAMN THING.
 
-    IF IT WORKS, FANTASTIC. IF IT DOESN'T, WELL, SHIT HAPPENS.
+IF IT WORKS, FANTASTIC. IF IT DOESN'T, WELL, SHIT HAPPENS.
 
 
-                     CLAUSE 10: LIMITATION OF LIABILITY
+                 CLAUSE 10: LIMITATION OF LIABILITY
 
-    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
-    THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DAMAGES
-    ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH THE WORK OR ITS
-    USE, MISUSE, MODIFICATION, DISTRIBUTION, OR INABILITY TO USE, WHETHER
-    IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER LEGAL
-    THEORY.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DAMAGES
+ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH THE WORK OR ITS
+USE, MISUSE, MODIFICATION, DISTRIBUTION, OR INABILITY TO USE, WHETHER
+IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER LEGAL
+THEORY.
 
-    THIS LIMITATION APPLIES TO ALL DAMAGES OF ANY KIND, INCLUDING
-    DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
-    PUNITIVE, OR OTHERWISE DEEPLY UNFORTUNATE DAMAGES.
+THIS LIMITATION APPLIES TO ALL DAMAGES OF ANY KIND, INCLUDING
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
+PUNITIVE, OR OTHERWISE DEEPLY UNFORTUNATE DAMAGES.
 
-    SUCH DAMAGES INCLUDE, WITHOUT LIMITATION:
+SUCH DAMAGES INCLUDE, WITHOUT LIMITATION:
 
-        -   Lost profits, revenue, business opportunities, or anticipated
-            savings.
+    -   Lost profits, revenue, business opportunities, or anticipated
+        savings.
 
-        -   Lost, corrupted, damaged, or inaccessible data.
+    -   Lost, corrupted, damaged, or inaccessible data.
 
-        -   System failures, broken servers, service interruptions, or
-            unexpected downtime.
+    -   System failures, broken servers, service interruptions, or
+        unexpected downtime.
 
-        -   Unexpected expenses, bills, or costs of obtaining substitute
-            goods or services.
+    -   Unexpected expenses, bills, or costs of obtaining substitute
+        goods or services.
 
-        -   Corrupted databases, damaged infrastructure, or failed
-            deployments.
+    -   Corrupted databases, damaged infrastructure, or failed
+        deployments.
 
-        -   Sleepless nights, existential crises, or other forms of
-            emotional distress, to the extent permitted by law.
+    -   Sleepless nights, existential crises, or other forms of
+        emotional distress, to the extent permitted by law.
 
-        -   Failed startups, lost investments, or unsuccessful business
-            ventures.
+    -   Failed startups, lost investments, or unsuccessful business
+        ventures.
 
-        -   Angry customers, angry investors, angry sysadmins, or angry
-            raccoons.
+    -   Angry customers, angry investors, angry sysadmins, or angry
+        raccoons.
 
-    YOU USE THE WORK. YOU DEAL WITH THE CONSEQUENCES. THAT'S THE
-    ARRANGEMENT.
+YOU USE THE WORK. YOU DEAL WITH THE CONSEQUENCES. THAT'S THE
+ARRANGEMENT.
 
-    NOTHING IN THIS SECTION SHALL EXCLUDE OR LIMIT ANY LIABILITY THAT
-    CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+NOTHING IN THIS SECTION SHALL EXCLUDE OR LIMIT ANY LIABILITY THAT
+CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 
 
-                    CLAUSE 11: GOOD FAITH AND LEGAL CLAIMS
+                CLAUSE 11: GOOD FAITH AND LEGAL CLAIMS
 
-    The Copyright Holder and Contributors respectfully express the hope
-    that You will refrain from bringing legal claims or initiating legal
-    proceedings against them arising from Your use, misuse, modification,
-    distribution, commercialization, or inability to use the Work.
+The Copyright Holder and Contributors respectfully express the hope
+that You will refrain from bringing legal claims or initiating legal
+proceedings against them arising from Your use, misuse, modification,
+distribution, commercialization, or inability to use the Work.
 
-    This is a personal request made in good faith, not a demand or
-    condition of receiving the permissions granted under this license.
+This is a personal request made in good faith, not a demand or
+condition of receiving the permissions granted under this license.
 
-    The Work is provided freely and without guarantees. The Copyright
-    Holder and Contributors make no promises that it will function
-    correctly, remain available, meet Your expectations, or suit Your
-    particular needs. By exercising the permissions granted under this
-    license, You acknowledge that things may go wrong and that the
-    Copyright Holder and Contributors cannot reasonably be expected
-    to take responsibility for every consequence.
+The Work is provided freely and without guarantees. The Copyright
+Holder and Contributors make no promises that it will function
+correctly, remain available, meet Your expectations, or suit Your
+particular needs. By exercising the permissions granted under this
+license, You acknowledge that things may go wrong and that the
+Copyright Holder and Contributors cannot reasonably be expected
+to take responsibility for every consequence.
 
-    This request expresses the preference and goodwill of the Copyright
-    Holder and Contributors. It is not a contractual restriction,
-    covenant not to sue, waiver of legal rights, or condition on the
-    permissions granted under this license.
+This request expresses the preference and goodwill of the Copyright
+Holder and Contributors. It is not a contractual restriction,
+covenant not to sue, waiver of legal rights, or condition on the
+permissions granted under this license.
 
-    Nothing in this request creates a penalty or additional obligation
-    for You if You choose to pursue a legal claim.
+Nothing in this request creates a penalty or additional obligation
+for You if You choose to pursue a legal claim.
 
-    Nothing in this section shall limit any rights or remedies that
-    applicable law expressly preserves, including claims involving
-    fraud, intentional misconduct, or other liabilities that cannot
-    legally be excluded.
+Nothing in this section shall limit any rights or remedies that
+applicable law expressly preserves, including claims involving
+fraud, intentional misconduct, or other liabilities that cannot
+legally be excluded.
 
-    The Copyright Holder and Contributors are simply asking that You
-    exercise the freedom granted under this license responsibly and
-    consider the people who made the Work available to You.
+The Copyright Holder and Contributors are simply asking that You
+exercise the freedom granted under this license responsibly and
+consider the people who made the Work available to You.
 
-    We gave You the freedom to do whatever the fuck You want.
+We gave You the freedom to do whatever the fuck You want.
 
-    We're simply asking You not to make us regret it.
+We're simply asking You not to make us regret it.
 
 
-                      CLAUSE 12: PUBLIC DOMAIN DEDICATION
+                  CLAUSE 12: PUBLIC DOMAIN DEDICATION
 
-    12.1. Irrevocable Public Domain Dedication and Fallback License
+12.1. Irrevocable Public Domain Dedication and Fallback License
 
-    The Copyright Holder hereby irrevocably dedicates the Work
-    to the public domain, relinquishing all copyright and
-    related rights in the Work to the fullest extent permitted
-    by applicable law.
+The Copyright Holder hereby irrevocably dedicates the Work
+to the public domain, relinquishing all copyright and
+related rights in the Work to the fullest extent permitted
+by applicable law.
 
-    This dedication is the primary and intended legal effect
-    of this section. Where the dedication is legally effective,
-    the Work shall be treated as public domain material and
-    shall not be subject to exclusive copyright ownership
-    or control by the Copyright Holder.
+This dedication is the primary and intended legal effect
+of this section. Where the dedication is legally effective,
+the Work shall be treated as public domain material and
+shall not be subject to exclusive copyright ownership
+or control by the Copyright Holder.
 
-    Where, and only to the extent that, the dedication is
-    ineffective, unenforceable, or legally unavailable under
-    applicable law, the Copyright Holder hereby grants
-    everyone a perpetual, worldwide, irrevocable, royalty-free,
-    non-exclusive, transferable, sublicensable, and unrestricted
-    license to exercise all copyright and related rights
-    in the Work for any purpose, without conditions.
+Where, and only to the extent that, the dedication is
+ineffective, unenforceable, or legally unavailable under
+applicable law, the Copyright Holder hereby grants
+everyone a perpetual, worldwide, irrevocable, royalty-free,
+non-exclusive, transferable, sublicensable, and unrestricted
+license to exercise all copyright and related rights
+in the Work for any purpose, without conditions.
 
-    The fallback license shall provide the maximum freedom
-    legally available and shall operate independently of
-    any ineffective portion of the dedication.
+The fallback license shall provide the maximum freedom
+legally available and shall operate independently of
+any ineffective portion of the dedication.
 
-    Neither the dedication nor the fallback license requires
-    attribution, acknowledgment, payment, notification,
-    registration, approval, or additional authorization.
+Neither the dedication nor the fallback license requires
+attribution, acknowledgment, payment, notification,
+registration, approval, or additional authorization.
 
-    12.2. Unrestricted Freedom of Use
+12.2. Unrestricted Freedom of Use
 
-    Anyone may, without permission, acknowledgment, or
-    compensation:
+Anyone may, without permission, acknowledgment, or
+compensation:
 
-        (a) use, reproduce, modify, adapt, transform, rewrite,
-            remove, replace, or discard the Work, in whole
-            or in part;
+    (a) use, reproduce, modify, adapt, transform, rewrite,
+        remove, replace, or discard the Work, in whole
+        or in part;
 
-        (b) rename, rebrand, repurpose, or incorporate the Work
-            into other works, products, services, or proprietary
-            software;
+    (b) rename, rebrand, repurpose, or incorporate the Work
+        into other works, products, services, or proprietary
+        software;
 
-        (c) publish, distribute, sell, commercialize, sublicense,
-            relicense, or otherwise exploit the Work under
-            any terms or without a license; and
+    (c) publish, distribute, sell, commercialize, sublicense,
+        relicense, or otherwise exploit the Work under
+        any terms or without a license; and
 
-        (d) exercise any other rights in relation to the Work
-            to the fullest extent permitted by applicable law.
+    (d) exercise any other rights in relation to the Work
+        to the fullest extent permitted by applicable law.
 
-    No attribution, acknowledgment, notification, registration,
-    approval, or additional authorization is required.
+No attribution, acknowledgment, notification, registration,
+approval, or additional authorization is required.
 
-    12.3. No Retained Ownership or Restrictions
+12.3. No Retained Ownership or Restrictions
 
-    The Copyright Holder retains no exclusive copyright
-    ownership or control over the original Work following
-    this dedication, to the fullest extent permitted by law.
+The Copyright Holder retains no exclusive copyright
+ownership or control over the original Work following
+this dedication, to the fullest extent permitted by law.
 
-    No person is required to preserve the Work, retain its
-    original name or form, identify its creator, or distribute
-    it under the original licensing terms.
+No person is required to preserve the Work, retain its
+original name or form, identify its creator, or distribute
+it under the original licensing terms.
 
-    Anyone may treat the Work as their own material for
-    purposes of use, modification, distribution, and
-    commercialization, without thereby acquiring historical
-    authorship of material they did not create.
+Anyone may treat the Work as their own material for
+purposes of use, modification, distribution, and
+commercialization, without thereby acquiring historical
+authorship of material they did not create.
 
-    12.4. No Warranty or Responsibility
+12.4. No Warranty or Responsibility
 
-    The Work is dedicated and made available without any
-    warranty or guarantee, whether express or implied, to
-    the maximum extent permitted by applicable law.
+The Work is dedicated and made available without any
+warranty or guarantee, whether express or implied, to
+the maximum extent permitted by applicable law.
 
-    The Copyright Holder and Contributors assume no
-    responsibility for the use, misuse, modification,
-    distribution, or consequences arising from the Work,
-    subject to liabilities that cannot legally be excluded.
+The Copyright Holder and Contributors assume no
+responsibility for the use, misuse, modification,
+distribution, or consequences arising from the Work,
+subject to liabilities that cannot legally be excluded.
 
-    12.5. No Revocation or Withdrawal
+12.5. No Revocation or Withdrawal
 
-    This dedication and the alternative permissions granted
-    under Clause 12.1 shall be permanent and irrevocable.
+This dedication and the alternative permissions granted
+under Clause 12.1 shall be permanent and irrevocable.
 
-    The Copyright Holder may not withdraw, revoke, restrict,
-    or otherwise invalidate this dedication or any permissions
-    already granted under this section.
+The Copyright Holder may not withdraw, revoke, restrict,
+or otherwise invalidate this dedication or any permissions
+already granted under this section.
 
-    No subsequent change of ownership, licensing preference,
-    personal disagreement, or unilateral decision shall
-    invalidate the dedication or permissions previously
-    granted.
+No subsequent change of ownership, licensing preference,
+personal disagreement, or unilateral decision shall
+invalidate the dedication or permissions previously
+granted.
 
-    Historical authorship may be acknowledged as a matter
-    of fact but shall not establish continuing copyright
-    ownership or exclusive control over the original Work.
+Historical authorship may be acknowledged as a matter
+of fact but shall not establish continuing copyright
+ownership or exclusive control over the original Work.
 
 
-                 CLAUSE 13: APPLICABLE LAW AND SEVERABILITY
+             CLAUSE 13: APPLICABLE LAW AND SEVERABILITY
 
-    This license shall be interpreted and enforced in accordance with
-    applicable law. Nothing in this license requires the application
-    of a particular jurisdiction's law or prevents the application
-    of mandatory legal provisions.
+This license shall be interpreted and enforced in accordance with
+applicable law. Nothing in this license requires the application
+of a particular jurisdiction's law or prevents the application
+of mandatory legal provisions.
 
-    If any provision of this license is found to be invalid or
-    unenforceable, that provision shall be modified only to the
-    minimum extent necessary to make it valid and enforceable, or
-    severed if such modification is not possible. The remaining
-    provisions shall remain in full force and effect to the maximum
-    extent permitted by applicable law.
+If any provision of this license is found to be invalid or
+unenforceable, that provision shall be modified only to the
+minimum extent necessary to make it valid and enforceable, or
+severed if such modification is not possible. The remaining
+provisions shall remain in full force and effect to the maximum
+extent permitted by applicable law.
 
-    Nothing in this section is intended to waive any rights or impose
-    any obligations that cannot legally be waived or imposed.
+Nothing in this section is intended to waive any rights or impose
+any obligations that cannot legally be waived or imposed.
 
-    If something is unclear, the guiding principle is simple:
+If something is unclear, the guiding principle is simple:
 
-        The author wanted this shit to be free.
+    The author wanted this shit to be free.
 
 
-                CLAUSE 14: NO ENDORSEMENT OR TRADEMARK LICENSE
+            CLAUSE 14: NO ENDORSEMENT OR TRADEMARK LICENSE
 
-    Nothing in this license grants You permission to use the Copyright
-    Holder's or Contributors' names, trademarks, service marks, logos,
-    or other branding to suggest endorsement, sponsorship, or
-    affiliation.
+Nothing in this license grants You permission to use the Copyright
+Holder's or Contributors' names, trademarks, service marks, logos,
+or other branding to suggest endorsement, sponsorship, or
+affiliation.
 
-    You may accurately identify the origin of the Work and describe
-    Your modifications.
+You may accurately identify the origin of the Work and describe
+Your modifications.
 
-    The author does not endorse Your project merely because You use
-    the Work.
+The author does not endorse Your project merely because You use
+the Work.
 
 
-                         CLAUSE 15: FINAL DECLARATION
+                     CLAUSE 15: FINAL DECLARATION
 
-    By using, copying, modifying, distributing, or otherwise exercising
-    rights in this Work, You acknowledge that the Copyright Holder has
-    intentionally chosen an extremely permissive licensing model.
+By using, copying, modifying, distributing, or otherwise exercising
+rights in this Work, You acknowledge that the Copyright Holder has
+intentionally chosen an extremely permissive licensing model.
 
-    There are no hidden fees, mandatory subscriptions, surprise
-    royalties, or unnecessary obligations. The rights granted under
-    this license are governed solely by its express terms:
+There are no hidden fees, mandatory subscriptions, surprise
+royalties, or unnecessary obligations. The rights granted under
+this license are governed solely by its express terms:
 
-                         DO WHATEVER THE FUCK YOU WANT.
+                     DO WHATEVER THE FUCK YOU WANT.
 
-    Create something innovative, preposterous, profitable, or entirely
-    unconventional.
+Create something innovative, preposterous, profitable, or entirely
+unconventional.
 
-    The Copyright Holder imposes no additional contractual restrictions
-    on the permissions granted under this license beyond those expressly
-    stated herein.
+The Copyright Holder imposes no additional contractual restrictions
+on the permissions granted under this license beyond those expressly
+stated herein.
 
-                                END OF LICENSE.
+                            END OF LICENSE.
 
-    No lawyers were intentionally harmed in the writing of this license.
-    Some may, however, experience mild discomfort.
+No lawyers were intentionally harmed in the writing of this license.
+Some may, however, experience mild discomfort.
 
-                           HOW TO APPLY THIS LICENSE
+                       HOW TO APPLY THIS LICENSE
 
-    This license applies automatically to any Work distributed under its terms.
-    No additional copyright notice, author identification, copyright year,
-    signature, registration, or authorization is required.
+This license applies automatically to any Work distributed under its terms.
+No additional copyright notice, author identification, copyright year,
+signature, registration, or authorization is required.
 
-    Distribution of the Work with this license constitutes its release under the
-    Whatever The Fuck You Want Public License Extended (WTFPLE), Version 1.0,
-    subject to the rights and limitations established herein.
+Distribution of the Work with this license constitutes its release under the
+Whatever The Fuck You Want Public License Extended (WTFPLE), Version 1.0,
+subject to the rights and limitations established herein.
